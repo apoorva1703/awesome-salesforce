@@ -21,6 +21,7 @@ A curated list of resources to help Salesforce developers and admins with tools,
 #### Guides and Tutorials
 - [Salesforce Automation Guide](https://github.com/mschmidtkorth/salesforce-automation-guide?tab=readme-ov-file): Overview of Salesforce automation tools and their features.
 - [50+ Examples of Flow](https://automationchampion.com/learning-flow/): A well-documented repository of Flow examples.
+-[Salesforce Flow](https://developer.salesforce.com/developer-centers/flow) : Salesforce Flow Documentation
 
 #### Debugging
 - [Unhandled Fault Handling in Flows](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/): Debugging tips and error-handling techniques.
