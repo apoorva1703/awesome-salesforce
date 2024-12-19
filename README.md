@@ -13,6 +13,7 @@ A curated list of resources to help Salesforce developers and admins with tools,
 3. [Apex Code Resources](#apex-code-resources)
 4. [Chrome Extensions](#chrome-extensions)
 5. [Visual Studio Code Extensions](#visual-studio-code-extensions)
+6. [Packages and Libraries](#packages-and-libraries)
 
 ---
 
