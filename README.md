@@ -81,12 +81,12 @@ A curated list of resources to help Salesforce developers and admins with tools,
 
 ---
 
-### **4. Chrome Extensions**
+### **4. Browser Extensions**
 
 #### Developer Tools
 - [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh): View and edit Salesforce data quickly.
 - [Salesforce DevTools](https://github.com/xgeek-net/salesforce-devtools): A Chrome extension to speed up Salesforce development.
-
+- [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
 ---
 
 ### **5. Visual Studio Code Extensions**
