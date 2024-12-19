@@ -110,6 +110,54 @@ A curated list of resources to help Salesforce developers and admins with tools,
 
 ---
 
+### **6. Packages and Libraries**
+
+#### Enterprise Development Frameworks
+- [Apex Commons](https://github.com/financialforcedev/fflib-apex-common): Enterprise patterns library for building robust Salesforce applications.
+- [Force-DI](https://github.com/apex-enterprise-patterns/force-di): Dependency injection framework for Apex, LWC, and Flows.
+- [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode): Sample applications demonstrating Apex Enterprise Patterns.
+
+#### Testing Frameworks
+- [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks): Sophisticated mocking framework for unit testing.
+- [Apex Test Kit](https://github.com/apexfarm/ApexTestKit): Generate massive sObject data for Apex test classes.
+- [Force.com Test Framework](https://github.com/wadewegner/Force.com-Test-Framework): Comprehensive test automation framework.
+
+#### API Integration Libraries
+- [JSforce](https://github.com/jsforce/jsforce): JavaScript library for Salesforce API integration.
+- [Simple-Salesforce](https://github.com/simple-salesforce/simple-salesforce): Python library for the Salesforce REST API.
+- [nforce](https://github.com/kevinohara80/nforce): Node.js Salesforce REST API wrapper.
+- [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi): Work with Salesforce metadata from Apex.
+
+#### DevOps Tools
+- [SFDX Git Delta](https://github.com/scolladon/sfdx-git-delta): Git-based deployment for Salesforce.
+- [CumulusCI](https://github.com/SFDO-Tooling/CumulusCI): Build and release automation tool.
+- [Package XML Generator](https://github.com/sergeygalkin/package-xml): Generate package.xml files for deployment.
+
+#### Data Management
+- [Declarative Lookup Rollup Summaries](https://github.com/DLRS/dlrs): Create rollup summaries without code.
+- [Data Loader](https://github.com/forcedotcom/dataloader): Official tool for data import/export.
+- [Apex Data Framework](https://github.com/apex-enterprise-patterns/fflib-apex-common): Framework for data operations.
+
+#### Security Tools
+- [ESAPI](https://github.com/forcedotcom/force-dot-com-esapi): Enterprise Security API for Apex.
+- [Shield](https://help.salesforce.com/articleView?id=security_pe_overview.htm): Platform encryption and security features.
+- [Security Scanner](https://security.secure.force.com/security/tools/forcecom/scanner): Official security scanning tool.
+
+#### Documentation Tools
+- [ApexDocs](https://github.com/SalesforceFoundation/ApexDoc): Generate documentation from Apex code.
+- [Docgen](https://github.com/forcedotcom/DocGen): Documentation toolkit for Salesforce.
+- [UML Generator](https://github.com/afawcett/apex-umlcanvas): Generate UML diagrams from Apex code.
+
+#### Community Solutions
+- [NPSP](https://github.com/SalesforceFoundation/NPSP): Nonprofit Success Pack.
+- [EDA](https://github.com/SalesforceFoundation/EDA): Education Data Architecture.
+- [Salesforce Labs](https://github.com/salesforcelabs): Official experimental projects.
+
+#### UI Development
+- [SLDS React](https://github.com/salesforce/design-system-react): React components for Lightning Design System.
+- [Lightning-datatable-extended](https://github.com/forcedotcom/lightning-tree-grid): Enhanced datatable component.
+- [Lightning Modal](https://github.com/lightningModal/modal): Reusable modal component.
+
 This awesome list provides a powerful set of tools and resources for Salesforce developers and admins. Expand your toolbox and improve your workflows with these carefully curated links!
 
 
