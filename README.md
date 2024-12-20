@@ -1,5 +1,5 @@
-# Clientell's Salesforce Awesome List
-<img src = "/Users/clientell/Downloads/Clientell Fav icon 2.png" height="32px">
+
+# <img src="Clientell Fav icon 2.png" alt="Clientell Logo" height="40px"> Clientell's Salesforce Awesome List
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -391,8 +391,11 @@ To the extent possible under law, Clientell has waived all copyright and related
 
 At Clientell AI, we're building AI agents for Salesforce to help sales teams work smarter. As a growing startup, we're excited to learn and improve with your help.
 We'd love to hear your thoughts! 
+
 Join our community on Slack:
 https://dataloaderai.slack.com/join/shared_invite/zt-2ozsvgqom-YJ9nWwEg_pCcgn2YYYDtJA#/shared-invite/email
+
+
 Or reach out directly: help@getclientell.com
 
 
