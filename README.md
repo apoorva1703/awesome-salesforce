@@ -11,9 +11,10 @@ A curated list of resources to help Salesforce developers and admins with tools,
 1. [Flows](#flows)
 2. [Lightning Web Components (LWC)](#lightning-web-components-lwc)
 3. [Apex Code Resources](#apex-code-resources)
-4. [Chrome Extensions](#chrome-extensions)
-5. [Visual Studio Code Extensions](#visual-studio-code-extensions)
-6. [Packages and Libraries](#packages-and-libraries)
+4. [Clientell Tools](#clientell-tools)
+5. [Chrome Extensions](#chrome-extensions)
+6. [Visual Studio Code Extensions](#visual-studio-code-extensions)
+7. [Packages and Libraries](#packages-and-libraries)
 
 ---
 
@@ -88,7 +89,28 @@ A curated list of resources to help Salesforce developers and admins with tools,
 
 ---
 
-### **4. Browser Extensions**
+### **4. Clientell Tools**
+
+Clientell offers a suite of innovative tools designed to enhance productivity and support the Salesforce community. These tools simplify workflows and provide valuable resources tailored to Salesforce professionals.
+
+#### Tools
+- [SOQL Generator](https://soqlgenerator.getclientell.com)  
+  Simplify SOQL query creation with an intuitive interface, designed for both beginners and experts.
+
+- [Clientell Job Board](https://jobboard.getclientell.com)  
+  Find Salesforce-specific job listings, prepare with interview guides, and optimize your resume with an AI-powered analyzer.
+
+- [Dataloader AI](https://www.dataloader.ai)  
+  An intelligent data loader that simplifies uploading, updating, and managing Salesforce data.  
+  - **Features**:  
+    - Human-like prompts for effortless data management.  
+    - Automated checks and smart mapping for error-free operations.  
+    - Free for a limited time!
+
+---
+
+
+### **5. Browser Extensions**
 
 #### Developer Tools
 - [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh): View and edit Salesforce data quickly.
@@ -96,7 +118,7 @@ A curated list of resources to help Salesforce developers and admins with tools,
 - [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
 ---
 
-### **5. Visual Studio Code Extensions**
+### **6. Visual Studio Code Extensions**
 
 #### Official Extensions
 - [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode): Apex, SOQL, and LWC tools for VS Code.
@@ -111,7 +133,7 @@ A curated list of resources to help Salesforce developers and admins with tools,
 
 ---
 
-### **6. Packages and Libraries**
+### **7. Packages and Libraries**
 
 #### Enterprise Development Frameworks
 - [Apex Commons](https://github.com/financialforcedev/fflib-apex-common): Enterprise patterns library for building robust Salesforce applications.
