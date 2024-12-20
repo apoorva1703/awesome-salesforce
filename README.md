@@ -167,6 +167,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pul
 - [Einstein GPT Success Group](https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94V000000HPyH): Product discussion and best practices
 - [Salesforce AI Developers Group](https://trailblazercommunity.salesforce.com/ai-developers): Developer community for AI implementations
 
+---
 
 ### **5. Clientell Tools**
 
@@ -323,7 +324,7 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
    Focuses on nonprofit organizations using Salesforce, sharing success stories and best practices tailored for the nonprofit sector.  
    [Cloud for Good](https://cloud4good.com/)
 
-
+---
 
 ### **11. Developer Utilities**
 
@@ -376,7 +377,7 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 - [SFDX Flow Scanner](https://github.com/shunkosa/sfdx-flowdoc-plugin): Modern Flow documentation generator
 
 
-
+---
 
 
 
