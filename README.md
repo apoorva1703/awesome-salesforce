@@ -1,6 +1,4 @@
-
 # Clientell's Salesforce Awesome List
-# Clientell's Salesforce Awesome List <img src="clientell logo copy.png" alt="Clientell Logo" width="200" align="right">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
