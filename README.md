@@ -128,13 +128,6 @@ Maintained by [Clientell.](https://www.getclientell.com)
 
 ### **4. AgentForce Resources**
 
-#### Documentation & Learning
-- [Einstein Platform Services](https://trailhead.salesforce.com/content/learn/modules/einstein_platform_basics): Learn Einstein AI Platform basics
-- [Einstein Vision and Language Models](https://github.com/trailheadapps/einstein-vision-and-language-models): Sample implementations of Einstein Vision and Language Models
-- [Einstein API Basics](https://developer.salesforce.com/docs/atlas.en-us.bi_dev_guide_einstein_vision.meta/bi_dev_guide_einstein_vision/einstein_vision_intro.htm): Documentation for Einstein API integration
-- [Salesforce Einstein GPT Documentation](https://developer.salesforce.com/docs/atlas.en-us.242.0.salesforce_einstein_gpt.meta/salesforce_einstein_gpt/einstein_gpt_intro.htm): Official documentation for Einstein GPT
-- [Einstein Trust Layer Overview](https://www.salesforce.com/products/einstein/ai-safety/): Understanding AI safety and governance
-- [Einstein Agent Builder Learning Map](https://trailhead.salesforce.com/content/learn/modules/einstein-agent-builder): Trailhead module for building Einstein agents
 
 #### Development Resources & Tools
 - [LLM Apex Agents](https://github.com/callawaycloud/llm-apex-agents): Run Large Language Model "Agents" in Salesforce Apex
@@ -142,16 +135,16 @@ Maintained by [Clientell.](https://www.getclientell.com)
 - [aquivalabs/my-org-butler](https://github.com/aquivalabs/my-org-butler): AI Agent for Salesforce Utility Bar
 - [coral-cloud](https://github.com/trailheadapps/coral-cloud): Sample application for Data Cloud and Agents
 
-#### Implementation & Best Practices
-- [Einstein GPT Implementation Guide](https://help.salesforce.com/s/articleView?id=sf.einstein_gpt_implementation_guide.htm&type=5): Step-by-step implementation guide
-- [Einstein GPT Prompt Engineering Guide](https://help.salesforce.com/s/articleView?id=sf.einstein_gpt_prompt_engineering.htm&type=5): Best practices for prompt engineering
-- [AI Cloud Security Best Practices](https://security.salesforce.com/ai-cloud-security-best-practices): Security guidelines for AI implementations
-- [Agent-First Architecture Patterns](https://architect.salesforce.com/design/decision-guides/ai-driven-architecture): Architectural considerations
+#### Implementation Guides
 
-#### Community Resources
-- [Salesforce AI Exchange Community](https://trailblazercommunity.salesforce.com/ai-exchange): Community forum for AI discussions
-- [Einstein GPT Success Group](https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94V000000HPyH): Product discussion and best practices
-- [Salesforce AI Developers Group](https://trailblazercommunity.salesforce.com/ai-developers): Developer community for AI implementations
+### [Salesforce Agentforce: What You Need to Know](https://silverlinecrm.com/blog/agentforce/salesforce-agentforce-what-you-need-to-know/)
+This article provides a beginner-friendly overview of Agentforce, detailing its features and how it enhances productivity through autonomous AI agents. It emphasizes the platform's user-friendly interface, allowing rapid deployment and customization without extensive coding. The article also highlights the ability of Agentforce to adapt in real-time to customer interactions.
+
+### [The Ultimate Guide to Salesforce Agentforce](https://www.ranosys.com/blog/insights/what-is-salesforce-agentforce/)
+This comprehensive guide explores the functionalities and use cases of Agentforce across various industries. It discusses the two types of agents—autonomous and assistive—and how they can be deployed for tasks in customer service, sales, marketing, and more. The article also outlines best practices for building agents using the Agent Builder and Prompt Builder tools, making it a valuable resource for organizations looking to implement Agentforce effectively.
+
+### [Introducing Agentforce for Developers](https://www.salesforce.com/blog/agentforce-developers-llms/?bc=OTH)
+This blog focuses on the developer aspect of Agentforce, detailing how it integrates with coding environments to enhance productivity through AI-powered tools. It discusses the benefits of using large language models (LLMs) for code generation and workflow optimization making it a useful resource for developers looking to leverage AI in their coding practices.
 
 ---
 
