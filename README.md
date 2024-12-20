@@ -153,8 +153,6 @@ Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pul
 - [qrev](https://github.com/qrev-ai/qrev): Open Source AI First alternative to Salesforce
 - [aquivalabs/my-org-butler](https://github.com/aquivalabs/my-org-butler): AI Agent for Salesforce Utility Bar
 - [coral-cloud](https://github.com/trailheadapps/coral-cloud): Sample application for Data Cloud and Agents
-- [Einstein GPT for Flow](https://github.com/forcedotcom/einstein-gpt-flow): Official examples for using Einstein GPT in Flows
-- [Einstein Agent Builder](https://login.salesforce.com/services/einstein/agent-builder): Web-based tool for building agents
 
 #### Implementation & Best Practices
 - [Einstein GPT Implementation Guide](https://help.salesforce.com/s/articleView?id=sf.einstein_gpt_implementation_guide.htm&type=5): Step-by-step implementation guide
