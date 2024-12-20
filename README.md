@@ -3,24 +3,12 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hey Trailblazers! 👋
 
 We've carefully curated this comprehensive list of resources, tools, and utilities to help developers, administrators, and architects in their Salesforce journey.
 Whether you're a dev wondering "Is there a better way to do this?" or an admin thinking "Surely someone's built this before," we've got your back. From Flow templates to time-saving LWC components,and even some cool AI stuff we're excited about – it's all here.
 
 Designed to help developers and admins find high-quality, tested solutions for common Salesforce development challenges. 
 Maintained by [Clientell.](https://www.getclientell.com)
-
-> [!NOTE]
-> This is a living document maintained by the community. [Contributions](#contributing) are welcome.
-
-## Contributing
-
-Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pull requests. By participating in this project, you agree to abide by our [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 
 ---
@@ -377,7 +365,15 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 
 ---
 
+## Contributing
 
+Please read our [contribution guidelines](contributing.md) before submitting pull requests.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Clientell has waived all copyright and related or neighboring rights to this work.
 
 
 
