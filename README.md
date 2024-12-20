@@ -21,73 +21,99 @@ A curated list of resources to help Salesforce developers and admins with tools,
 ### **1. Flows**
 
 #### Guides and Tutorials
-- [Salesforce Automation Guide](https://github.com/mschmidtkorth/salesforce-automation-guide?tab=readme-ov-file): Overview of Salesforce automation tools and their features.
-- [50+ Examples of Flow](https://automationchampion.com/learning-flow/): A well-documented repository of Flow examples.
-- [Salesforce Flow](https://developer.salesforce.com/developer-centers/flow) : Salesforce Developer Documentation
-- [USF](https://unofficialsf.com/flow-resources/) : Community-built Flow solutions and components
-- [Salesforce Ben Crash Course](https://www.youtube.com/watch?v=rTHJf8HvYyI) : Ultimate Salesforce Flow Crash Course
-- [Salesforce Ben Guide](https://www.salesforceben.com/introduction-salesforce-flow/) : The Complete Guide to Salesforce Flow 
+- [Salesforce Automation Guide](https://github.com/mschmidtkorth/salesforce-automation-guide?tab=readme-ov-file): Overview of Salesforce automation tools and their features
+- [50+ Examples of Flow](https://automationchampion.com/learning-flow/): A well-documented repository of Flow examples
+- [Salesforce Flow](https://developer.salesforce.com/developer-centers/flow): Salesforce Developer Documentation
+- [USF](https://unofficialsf.com/flow-resources/): Community-built Flow solutions and components
+- [Salesforce Ben Crash Course](https://www.youtube.com/watch?v=rTHJf8HvYyI): Ultimate Salesforce Flow Crash Course
+- [Salesforce Ben Guide](https://www.salesforceben.com/introduction-salesforce-flow/): The Complete Guide to Salesforce Flow
+- [Flow Best Practices](https://admin.salesforce.com/blog/2021/the-ultimate-guide-to-flow-best-practices-and-standards): The Ultimate Guide to Flow Best Practices and Standards
+- [Official Flow Builder Documentation](https://help.salesforce.com/s/articleView?id=platform.flow.htm&type=5): Automate Tasks with Flows
 
-
-- 
 #### Debugging
-- [Unhandled Fault Handling in Flows](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/): Debugging tips and error-handling techniques.
-- [Flow Logging by Azimuth DS](https://github.com/JitendraZaa/OAuthFlows): A library for understanding Flow behavior and error logging.
-- [Which Process Failed?](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/): Tips for identifying failing processes.
+- [Unhandled Fault Handling in Flows](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/): Debugging tips and error-handling techniques
+- [Flow Logging by Azimuth DS](https://github.com/JitendraZaa/OAuthFlows): A library for understanding Flow behavior and error logging
+- [Which Process Failed?](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/): Tips for identifying failing processes
 
 #### Pre-Built Templates and Extensions
-- [Salesforce Labs Flows Collection](https://appexchange.salesforce.com/mktcollections/curated/salesforce-labs-flows): Curated flow templates from Salesforce Labs.
-- [Unofficial Flow Extensions](https://github.com/alexed1/LightningFlowComponents): Add-ons to enhance Salesforce Flow and Orchestrator.
-- [Dynamic Flow Progress Indicators](https://github.com/SFDC-Assets/DynamicFlowProgress): LWC components to show progress indicators in Flow screens.
-- [Mass Action Scheduler](https://github.com/sfdx-mass-action-scheduler/sfdx-mass-action-scheduler): Declaratively schedule Flows, Quick Actions, and more.
-- [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): A Salesforce CLI plugin for Flow static analysis.
-- [Launch Flow in Modal](https://github.com/salesforce-experiencecloud/LaunchFlowInModal): Component to launch Flows in a modal window.
-- [Nebula Logger](https://github.com/jongpie/NebulaLogger): Native logging solution for Salesforce, compatible with Flows.
-- [Round Robin Records in Flows](https://github.com/jamessimone/salesforce-round-robin): A method for distributing records.
-- [OAuth Flows](https://github.com/JitendraZaa/OAuthFlows): Examples of Salesforce OAuth flows.
-- [IAM Flows](https://github.com/NVandenBossche/salesforce-iam-flows): Common SAML and OAuth flows in Salesforce.
-- [FlowDoc Plugin](https://github.com/shunkosa/sfdx-flowdoc-plugin): Generate design documents from Flow metadata.
-- [Barcode Scanner for Flows](https://github.com/SFDC-Assets/Lightning-Barcode-Scanner): LWC component for barcode scanning in Flows.
+- [Salesforce Labs Flows Collection](https://appexchange.salesforce.com/mktcollections/curated/salesforce-labs-flows): Curated flow templates from Salesforce Labs
+- [Unofficial Flow Extensions](https://github.com/alexed1/LightningFlowComponents): Add-ons to enhance Salesforce Flow and Orchestrator
+- [Dynamic Flow Progress Indicators](https://github.com/SFDC-Assets/DynamicFlowProgress): LWC components for Flow screens
+- [Mass Action Scheduler](https://github.com/sfdx-mass-action-scheduler/sfdx-mass-action-scheduler): Schedule Flows, Quick Actions, and more
+- [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Flow static analysis plugin
+- [Launch Flow in Modal](https://github.com/salesforce-experiencecloud/LaunchFlowInModal): Launch Flows in modal windows
+- [Nebula Logger](https://github.com/jongpie/NebulaLogger): Native logging solution for Salesforce
+- [Round Robin Records in Flows](https://github.com/jamessimone/salesforce-round-robin): Record distribution method
+- [OAuth Flows](https://github.com/JitendraZaa/OAuthFlows): Salesforce OAuth flow examples
+- [IAM Flows](https://github.com/NVandenBossche/salesforce-iam-flows): SAML and OAuth flows
+- [FlowDoc Plugin](https://github.com/shunkosa/sfdx-flowdoc-plugin): Generate Flow documentation
+- [Barcode Scanner for Flows](https://github.com/SFDC-Assets/Lightning-Barcode-Scanner): Barcode scanning in Flows
+- [Quick-Actions-Everywhere](https://github.com/jmdohn/Quick-Actions-Everywhere): Quick Actions implementation across Salesforce
 
 ---
 
 ### **2. Lightning Web Components (LWC)**
 
 #### Learning Resources
-- [LWC Recipes](https://recipes.lwc.dev/): Examples of LWC components with implementation details.
-- [Intro to LWC](https://github.com/tsalb/intro-to-lwc): A beginner-friendly introduction to LWC fundamentals.
+- [LWC Recipes](https://recipes.lwc.dev/): Examples with implementation details
+- [Intro to LWC](https://github.com/tsalb/intro-to-lwc): Beginner-friendly introduction
+- [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc): Curated list of LWC resources
+- [Awesome LWC Collection](https://github.com/svierk/awesome-lwc-collection): Ready-to-use components
 
 #### Repositories
-- [LWC Recipes](https://github.com/trailheadapps/lwc-recipes): Code examples for common LWC use cases.
-- [Easy Spaces LWC](https://github.com/trailheadapps/easy-spaces-lwc): Sample app showcasing event management with LWC.
-- [SOQL Builder for LWC](https://github.com/lwc-soql-builder/lwc-soql-builder): A SOQL query builder built with LWC.
-- [Lightning Web ChartJS](https://github.com/SalesforceLabs/LightningWebChartJS): Charting LWC using Chart.js.
-- [Nebula Logger](https://github.com/jongpie/NebulaLogger): Observability solution for Salesforce, fully compatible with LWC.
-- [Timeline Component](https://github.com/deejay-hub/timeline-lwc): Interactive timeline component for Salesforce.
-- [Commerce Cloud Components](https://github.com/commerce-codeitforward/Components-For-Salesforce-Commerce-Cloud): Reference components for Salesforce Commerce Cloud.
-- [LWC Utils](https://github.com/tsalb/lwc-utils): Reusable LWCs for building data-dense, interactive UIs.
-- [Lightning Wizard](https://github.com/jmpisson/lightning-wizard): LWC components for programmatically building flows.
+- [LWC Recipes](https://github.com/trailheadapps/lwc-recipes): Common LWC use cases
+- [Easy Spaces LWC](https://github.com/trailheadapps/easy-spaces-lwc): Event management sample app
+- [SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder): SOQL query builder
+- [Lightning Web ChartJS](https://github.com/SalesforceLabs/LightningWebChartJS): Chart.js implementation
+- [Timeline Component](https://github.com/deejay-hub/timeline-lwc): Interactive timeline
+- [LWC Utils](https://github.com/tsalb/lwc-utils): Reusable components
+- [Lightning Wizard](https://github.com/jmpisson/lightning-wizard): Wizard components
+- [Commerce Cloud Components](https://github.com/commerce-codeitforward/Components-For-Salesforce-Commerce-Cloud): Reference components
+- [LWC Router](https://github.com/chandrakiran-dev/lwc-router): Routing functionality
+- [LWC Redux](https://github.com/chandrakiran-dev/lwc-redux): Redux integration
+- [LWC Modal](https://github.com/jamessimone/lwc-modal): Accessible modal component
+- [UI API Playground](https://github.com/pozil/ui-api-playground): UI API explorer
+- [Einstein Bots UI Recipe](https://github.com/shunkosa/einstein-bots-ui-recipe): Einstein Bots UI components
+- [Create LWC App](https://github.com/muenzpraeger/create-lwc-app): Project scaffolding CLI
+- [Custom Path Assistant](https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC): Path Assistant component
+- [Payment Form](https://github.com/rapsacnz/PaymentForm): Credit card form component
 
 ---
 
 ### **3. Apex Code Resources**
 
 #### Repositories
-- [Apex Recipes](https://github.com/trailheadapps/apex-recipes): Examples of Apex code for common use cases.
-- [Apex Metadata API Wrapper](https://github.com/certinia/apex-mdapi): Library for interacting with Salesforce Metadata API in Apex.
-- [Trigger Framework](https://github.com/mitchspano/apex-trigger-actions-framework): Framework for managing triggers efficiently.
-- [Rollup Utility](https://github.com/jamessimone/apex-rollup): A powerful rollup solution with CMDT-driven logic.
+- [Apex Recipes](https://github.com/trailheadapps/apex-recipes): Common use case examples
+- [Apex Metadata API Wrapper](https://github.com/certinia/apex-mdapi): Metadata API library
+- [Trigger Framework](https://github.com/mitchspano/apex-trigger-actions-framework): Trigger management
+- [Rollup Utility](https://github.com/jamessimone/apex-rollup): Advanced rollup solution
+- [Apex UUID](https://github.com/jongpie/ApexUUID): UUID generation library
+- [Query.apex](https://github.com/PropicSignifi/Query.apex): SOQL/SOSL builder
+- [R.apex](https://github.com/PropicSignifi/R.apex): Functional programming utility
+- [HTTP Callout Framework](https://github.com/rahulmalhotra/HTTPCalloutFramework): API integration framework
+- [Apex Rest Route](https://github.com/callawaycloud/apex-rest-route): REST API framework
+- [JSON2Apex](https://github.com/superfell/json2apex): JSON to Apex converter
 
 #### Libraries and Frameworks
-- [Apex Mocks](https://github.com/apex-enterprise-patterns/fflib-apex-mocks): A mocking framework for unit testing in Salesforce.
-- [Functional Programming in Apex](https://github.com/ipavlic/apex-fp): A library for functional programming in Apex.
-- [Apex Trigger Actions Framework](https://github.com/mitchspano/apex-trigger-actions-framework): Partition and organize trigger logic.
+- [Apex Mocks](https://github.com/apex-enterprise-patterns/fflib-apex-mocks): Mocking framework
+- [Functional Programming in Apex](https://github.com/ipavlic/apex-fp): Functional programming library
+- [Apex Trigger Actions Framework](https://github.com/mitchspano/apex-trigger-actions-framework): Trigger management
+- [Nebula Framework](https://github.com/jongpie/NebulaFramework): Development framework
+- [Nebula Query and Search](https://github.com/jongpie/NebulaQueryAndSearch): Dynamic query library
+
+#### Testing and Mocking
+- [Test Data Factory](https://github.com/benahm/TestDataFactory): Test data creation
+- [Apex Mockery](https://github.com/salesforce/apex-mockery): Lightweight mocking
+- [Universal Mock](https://github.com/surajp/universalmock): Universal mocking class
+- [Amoss](https://github.com/bobalicious/amoss): Mock objects and spies
+- [ApexTestKit](https://github.com/apexfarm/ApexTestKit): Testing utilities
 
 #### Tools
-- [SOQL Explorer](https://github.com/superfell/SoqlX): GUI tool for running SOQL queries.
-- [Test Data Factory](https://github.com/benahm/TestDataFactory): Tool for creating test data in Salesforce.
+- [SOQL Explorer](https://github.com/superfell/SoqlX): GUI tool for running SOQL queries
+- [Apex XML Serializer](https://github.com/skolakan/Apex-XML-Serializer): XML processing
+- [LLM Apex Agents](https://github.com/callawaycloud/llm-apex-agents): AI integration
+- [Design Patterns](https://github.com/bdJohnson72/Design-Patterns-In-Apex): GoF patterns in Apex
 
----
 
 ### **4. Clientell Tools**
 
