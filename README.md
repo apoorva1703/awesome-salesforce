@@ -1,24 +1,46 @@
 
+# Clientell's Salesforce Awesome List
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Salesforce Awesome List
+Hey Trailblazers! 👋
 
-A curated list of resources to help Salesforce developers and admins with tools, templates, and extensions for Flows, Lightning Web Components (LWC), Apex, and other development utilities. 
+We've carefully curated this comprehensive list of resources, tools, and utilities to help developers, administrators, and architects in their Salesforce journey.
+Whether you're a dev wondering "Is there a better way to do this?" or an admin thinking "Surely someone's built this before," we've got your back. From Flow templates to time-saving LWC components,and even some cool AI stuff we're excited about – it's all here.
+
+Designed to help developers and admins find high-quality, tested solutions for common Salesforce development challenges. 
+Maintained by [Clientell.](https://www.getclientell.com)
+
+> [!NOTE]
+> This is a living document maintained by the community. [Contributions](#contributing) are welcome.
+
+## Contributing
+
+Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pull requests. By participating in this project, you agree to abide by our [code of conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
 
 ---
 
 ## Table of Contents
-1. [Flows](#flows)
+1. [Flow Resources](#flows)
 2. [Lightning Web Components (LWC)](#lightning-web-components-lwc)
 3. [Apex Code Resources](#apex-code-resources)
-4. [Clientell Tools](#clientell-tools)
-5. [Chrome Extensions](#chrome-extensions)
-6. [Visual Studio Code Extensions](#visual-studio-code-extensions)
-7. [Packages and Libraries](#packages-and-libraries)
+4. [Agentforce Resources](#agentforce-resources)
+5. [Clientell Tools](#clientell-tools)
+6. [Salesforce Certification Guide](#salesforce-certification)
+7. [Chrome Extensions](#chrome-extensions)
+8. [Visual Studio Code Extensions](#visual-studio-code-extensions)
+9. [Packages and Libraries](#packages-and-libraries)
+10. [Blogs and Articles](#blogs-and-articles)
+11. [Developer Utilities](#developer-utilities)
 
 ---
 
-### **1. Flows**
+### **1. Salesforce Flow Resources**
 
 #### Guides and Tutorials
 - [Salesforce Automation Guide](https://github.com/mschmidtkorth/salesforce-automation-guide?tab=readme-ov-file): Overview of Salesforce automation tools and their features
@@ -52,7 +74,7 @@ A curated list of resources to help Salesforce developers and admins with tools,
 
 ---
 
-### **2. Lightning Web Components (LWC)**
+### **2. Lightning Web Components (LWC) Resources**
 
 #### Learning Resources
 - [LWC Recipes](https://recipes.lwc.dev/): Examples with implementation details
@@ -114,8 +136,39 @@ A curated list of resources to help Salesforce developers and admins with tools,
 - [LLM Apex Agents](https://github.com/callawaycloud/llm-apex-agents): AI integration
 - [Design Patterns](https://github.com/bdJohnson72/Design-Patterns-In-Apex): GoF patterns in Apex
 
+---
 
-### **4. Clientell Tools**
+### **4. AgentForce Resources**
+
+#### Documentation & Learning
+- [Einstein Platform Services](https://trailhead.salesforce.com/content/learn/modules/einstein_platform_basics): Learn Einstein AI Platform basics
+- [Einstein Vision and Language Models](https://github.com/trailheadapps/einstein-vision-and-language-models): Sample implementations of Einstein Vision and Language Models
+- [Einstein API Basics](https://developer.salesforce.com/docs/atlas.en-us.bi_dev_guide_einstein_vision.meta/bi_dev_guide_einstein_vision/einstein_vision_intro.htm): Documentation for Einstein API integration
+- [Salesforce Einstein GPT Documentation](https://developer.salesforce.com/docs/atlas.en-us.242.0.salesforce_einstein_gpt.meta/salesforce_einstein_gpt/einstein_gpt_intro.htm): Official documentation for Einstein GPT
+- [Einstein Trust Layer Overview](https://www.salesforce.com/products/einstein/ai-safety/): Understanding AI safety and governance
+- [Einstein Agent Builder Learning Map](https://trailhead.salesforce.com/content/learn/modules/einstein-agent-builder): Trailhead module for building Einstein agents
+
+#### Development Resources & Tools
+- [LLM Apex Agents](https://github.com/callawaycloud/llm-apex-agents): Run Large Language Model "Agents" in Salesforce Apex
+- [qrev](https://github.com/qrev-ai/qrev): Open Source AI First alternative to Salesforce
+- [aquivalabs/my-org-butler](https://github.com/aquivalabs/my-org-butler): AI Agent for Salesforce Utility Bar
+- [coral-cloud](https://github.com/trailheadapps/coral-cloud): Sample application for Data Cloud and Agents
+- [Einstein GPT for Flow](https://github.com/forcedotcom/einstein-gpt-flow): Official examples for using Einstein GPT in Flows
+- [Einstein Agent Builder](https://login.salesforce.com/services/einstein/agent-builder): Web-based tool for building agents
+
+#### Implementation & Best Practices
+- [Einstein GPT Implementation Guide](https://help.salesforce.com/s/articleView?id=sf.einstein_gpt_implementation_guide.htm&type=5): Step-by-step implementation guide
+- [Einstein GPT Prompt Engineering Guide](https://help.salesforce.com/s/articleView?id=sf.einstein_gpt_prompt_engineering.htm&type=5): Best practices for prompt engineering
+- [AI Cloud Security Best Practices](https://security.salesforce.com/ai-cloud-security-best-practices): Security guidelines for AI implementations
+- [Agent-First Architecture Patterns](https://architect.salesforce.com/design/decision-guides/ai-driven-architecture): Architectural considerations
+
+#### Community Resources
+- [Salesforce AI Exchange Community](https://trailblazercommunity.salesforce.com/ai-exchange): Community forum for AI discussions
+- [Einstein GPT Success Group](https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94V000000HPyH): Product discussion and best practices
+- [Salesforce AI Developers Group](https://trailblazercommunity.salesforce.com/ai-developers): Developer community for AI implementations
+
+
+### **5. Clientell Tools**
 
 Clientell offers a suite of innovative tools designed to enhance productivity and support the Salesforce community. These tools simplify workflows and provide valuable resources tailored to Salesforce professionals.
 
@@ -132,11 +185,34 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
     - Human-like prompts for effortless data management.  
     - Automated checks and smart mapping for error-free operations.  
     - Free for a limited time!
+- [Email Template Generator](https://jobboard.getclientell.com/sales-tools/email-template-generator)
+  Create high-quality email templates for your sales team with our generator.  
+- **Features**:
+  - Generate professional email templates effortlessly.
+  - Customize for various sales scenarios and communication needs.
+- **Use Cases**:
+  - Streamline communication across your sales team.
+  - Improve the quality and consistency of your sales emails.  
+
+- [Sales Process Builder](https://jobboard.getclientell.com/sales-tools/sales-process-builder)
+  Build and visualize customized sales processes for your team with our interactive builder.  
+- **Features**:
+  - Create tailored sales processes to fit your team’s workflow.
+  - Visualize steps to ensure clarity and efficiency.
+- **Use Cases**:
+  - Design, document, and share sales processes.
+  - Enhance team alignment and improve sales outcomes.  
+
+---
+### 6. Salesforce Certifications
+
+- [Salesforce Certification Guide](https://www.getclientell.com/salesforce-certifications): Everything You Need to Know to Advance Your Career in Salesforce
+- [Administrator Credentials Verification](https://trailhead.salesforce.com/en/credentials/administratoroverview/) : Salesforce Administrator Credentials Verification
+- Ready to register for an exam? [Click Here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE)
 
 ---
 
-
-### **5. Browser Extensions**
+### **7. Browser Extensions**
 
 #### Developer Tools
 - [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh): View and edit Salesforce data quickly.
@@ -144,7 +220,7 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 - [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
 ---
 
-### **6. Visual Studio Code Extensions**
+### **8. Visual Studio Code Extensions**
 
 #### Official Extensions
 - [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode): Apex, SOQL, and LWC tools for VS Code.
@@ -159,7 +235,7 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 
 ---
 
-### **7. Packages and Libraries**
+### **9. Packages and Libraries**
 
 #### Enterprise Development Frameworks
 - [Apex Commons](https://github.com/financialforcedev/fflib-apex-common): Enterprise patterns library for building robust Salesforce applications.
@@ -207,7 +283,103 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 - [Lightning-datatable-extended](https://github.com/forcedotcom/lightning-tree-grid): Enhanced datatable component.
 - [Lightning Modal](https://github.com/lightningModal/modal): Reusable modal component.
 
-This awesome list provides a powerful set of tools and resources for Salesforce developers and admins. Expand your toolbox and improve your workflows with these carefully curated links!
+---
+
+### **10. Blogs and Articles**
+
+1. **Salesforce Ben (Ben McCarthy)**  
+   Covers a wide range of topics including Salesforce tips, tutorials, and industry news.  
+   [Salesforce Ben](https://www.salesforceben.com/)
+
+2. **Automation Champion (Amit Chaudhary)**  
+   Focuses on automation in Salesforce with practical examples and tutorials primarily around Flow and Process Builder.  
+   [Automation Champion](https://automationchampion.com/)
+
+3. **SFDC99 (David Liu)**  
+   A blog dedicated to helping new developers learn Salesforce through tutorials and resources, especially for those transitioning from other fields.  
+   [SFDC99](https://www.sfdc99.com/)
+
+4. **The CRM Ninja (Mike Gerholdt)**  
+   Offers practical tutorials and insights into Salesforce development and administration, along with personal experiences and tips.  
+   [The CRM Ninja](https://thecrmninja.com/)
+   
+5. **The Clientell Blog**
+   Dive into expert insights on Salesforce Implementation, uncover the full potential of Agentforce, and explore a rich knowledge base         tailored to streamline CRM processes.
+   [Clientell](https://www.getclientell.com/resources/blogs)
+   
+6. **Admin Hero (Jodie Miners)**  
+   Focused on Salesforce administrators, this blog provides practical advice, best practices, and productivity tips tailored for admins.  
+   [Admin Hero](https://adminhero.com/)
+
+7. **The Data Incubator (Tiffany Dedeaux)**  
+   Offers insights into data management within Salesforce, including data quality and governance topics.  
+   [The Data Incubator](https://www.thedataincubator.com/)
+
+8. **The Salesforce Developer Blog**  
+   Features articles from Salesforce developers about new features, best practices, and development tips. While it's an official blog, it includes contributions from individual developers.  
+   [Salesforce Developer Blog](https://developer.salesforce.com/blogs/)
+
+9. **Cloud for Good**  
+   Focuses on nonprofit organizations using Salesforce, sharing success stories and best practices tailored for the nonprofit sector.  
+   [Cloud for Good](https://cloud4good.com/)
+
+
+
+### **11. Developer Utilities**
+
+#### Code Generation & Development Tools
+- [Prettier Plugin for Apex](https://github.com/dangmai/prettier-plugin-apex): Modern code formatter for Apex
+- [Sweet.apex 2.0](https://github.com/sweet-apex/sweet.apex): Next-generation Apex development with enhanced features
+- [JSON2Apex](https://github.com/superfell/json2apex): Generate Apex classes from JSON (actively maintained)
+- [SFDX Scanner](https://github.com/forcedotcom/sfdx-scanner): Next-generation static analysis tool
+- [soql-parser-js](https://github.com/jetstreamapp/soql-parser-js): Modern JavaScript SOQL parser with TypeScript support
+- [Jetstream](https://github.com/jetstreamapp/jetstream): Modern desktop app for Salesforce development (successor to Adminite)
+
+#### Debug & Analysis Tools
+- [Debug Log Analyzer](https://github.com/certinia/debug-log-analyzer): Modern debug log visualization with flame charts
+- [Nebula Logger](https://github.com/jongpie/NebulaLogger): Comprehensive logging solution (replaces older debug tools)
+- [Salesforce Inspector Reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded): Enhanced Chrome extension for Salesforce development
+
+#### Data Management & Migration
+- [DLLoader.ai](https://dataloader.ai/): Modern web-based data loader with AI capabilities
+- [CumulusCI](https://github.com/SFDO-Tooling/CumulusCI): Modern build and release automation tool
+- [SFDX Data Move Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility): Enhanced data migration tool
+
+#### IDE & Editor Extensions
+- [VS Code Salesforce Extension Pack](https://github.com/forcedotcom/salesforcedx-vscode): Official, actively maintained VS Code extensions
+- [Salesforce Extension for VS Code](https://github.com/forcedotcom/salesforcedx-vscode): Latest development tools for VS Code
+- [Illuminated Cloud 2](https://plugins.jetbrains.com/plugin/13956-illuminated-cloud-2): Modern IntelliJ-based Salesforce development
+
+#### Testing & Quality Tools
+- [UTAM](https://github.com/salesforce/utam): Modern UI testing automation framework
+- [Apex Test Kit](https://github.com/apexfarm/ApexTestKit): Modern test data generation framework
+- [LWC Test Utils](https://github.com/salesforce/lwc-test): Latest testing utilities for LWC
+
+#### Deployment & CI/CD
+- [GitHub Salesforce Deploy Tool](https://github.com/afawcett/githubsfdeploy): Updated deployment tool with modern Salesforce DX support
+- [SFDX Git Delta](https://github.com/scolladon/sfdx-git-delta): Optimized deployment based on git changes
+- [SF Power Scripts](https://github.com/dxatscale/sfpowerscripts): Modern build automation toolkit
+
+#### API & Integration Tools
+- [Workbench Reloaded](https://workbench.developerforce.com): Enhanced version of the classic Workbench
+- [Thunder Client](https://github.com/rangav/thunder-client-support): Modern alternative to Postman for Salesforce APIs
+- [JSforce](https://github.com/jsforce/jsforce): Modern JavaScript library for Salesforce (TypeScript support)
+
+#### Development Utilities
+- [SFDX Hardis](https://github.com/hardisgroupcom/sfdx-hardis): Swiss-army knife for modern Salesforce development
+- [SFDX Essentials](https://github.com/nvuillam/sfdx-essentials): Collection of modern SFDX tools and utilities
+- [Apex PKG](https://github.com/apexdevtools/apex-pkg): Modern package management for Apex
+
+#### Documentation Tools
+- [ApexDocs](https://github.com/cesarParra/apexdocs): Modern documentation generator for Apex
+- [LWC Documentation Engine](https://github.com/salesforce/lwc-docs-engine): Latest documentation tool for LWC
+- [SFDX Flow Scanner](https://github.com/shunkosa/sfdx-flowdoc-plugin): Modern Flow documentation generator
+
+
+
+
+
+
 
 
 
