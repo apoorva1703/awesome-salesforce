@@ -1,5 +1,5 @@
 
-# <img src="Clientell Fav icon 2.png" alt="Clientell Logo" height="40px"> Clientell's Salesforce Awesome List
+# <img src="Clientell clientell logo.png" alt="Clientell Logo" height="40px"> Clientell's Salesforce Awesome List
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -8,7 +8,6 @@ Whether you're a dev wondering "Is there a better way to do this?" or an admin t
 
 Designed to help developers and admins find high-quality, tested solutions for common Salesforce development challenges. 
 Maintained by [Clientell.](https://www.getclientell.com)
-
 
 ---
 
@@ -176,32 +175,31 @@ Free for a limited time!
 
 - [Dataloader AI](https://www.dataloader.ai)  
   An intelligent data loader that simplifies uploading, updating, and managing Salesforce data.  
-  - **Features**:  
+  **Features**:  
     - Human-like prompts for effortless data management.  
     - Automated checks and smart mapping for error-free operations.  
     - Free for a limited time!
 
 - [Email Template Generator](https://jobboard.getclientell.com/sales-tools/email-template-generator)
   Create high-quality email templates for your sales team with our generator.  
-- **Features**:
+  **Features**:
   - Generate professional email templates effortlessly.
   - Customize for various sales scenarios and communication needs.
-- **Use Cases**:
+  **Use Cases**:
   - Streamline communication across your sales team.
   - Improve the quality and consistency of your sales emails.  
 
 - [Sales Process Builder](https://jobboard.getclientell.com/sales-tools/sales-process-builder)
   Build and visualize customized sales processes for your team with our interactive builder.  
-- **Features**:
+  **Features**:
   - Create tailored sales processes to fit your team’s workflow.
   - Visualize steps to ensure clarity and efficiency.
-- **Use Cases**:
+  **Use Cases**:
   - Design, document, and share sales processes.
   - Enhance team alignment and improve sales outcomes.
 
-
-
 ---
+
 ### 6. Salesforce Certifications
 
 - [Salesforce Certification Guide](https://www.getclientell.com/salesforce-certifications): Everything You Need to Know to Advance Your Career in Salesforce
@@ -397,6 +395,8 @@ https://dataloaderai.slack.com/join/shared_invite/zt-2ozsvgqom-YJ9nWwEg_pCcgn2YY
 
 
 Or reach out directly: help@getclientell.com
+
+
 
 
 
